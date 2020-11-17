@@ -13,7 +13,7 @@ int main(int argc, char *argv[])
     char nombra[12];
     char apellido[12];
     char cedula[9];
-
+	//asdf
     char confirmacion[20];
     float monto=0;
 	//asd
